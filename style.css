@@ -1,0 +1,74 @@
+*{
+    margin: 0px;
+    font-family: 'Inter', sans-serif;
+}
+
+nav{
+    background-color: black;
+    height: 87px;
+}
+
+.company-name{
+    display: inline-block;
+    color: white;
+    margin-left: 38px;
+    margin-top: 29px;
+}
+
+.heading{
+    margin-left: 38px;
+    margin-top: 40px;
+}
+
+.placeholder-text{
+    margin-left: 38px;
+    margin-right: 38px;
+    margin-top: 28px;
+}
+
+.link{
+    display: inline-block;
+    margin-left: 38px;
+    margin-top: 28px;
+}
+
+.btn{
+    color: white;
+    font-size: 16px;
+    background-color: black;
+    width: 158px;
+    height: 40px;
+}
+
+.heading-2{
+    margin-left: 38px;
+    margin-top: 40px;
+}
+
+img{
+    max-height: 600px;
+    margin-left: 38px;
+    margin-top: 28px;
+}
+
+.heading-3{
+    margin-left: 38px;
+    margin-top: 40px;
+}
+
+li{
+    margin-left: 18px;
+}
+ol{
+    margin-top: 28px;
+}
+
+.heading-4{
+    margin-left: 38px;
+    margin-top: 40px;
+}
+
+ul{
+    margin-top: 28px;
+    margin-bottom: 28px;
+}
